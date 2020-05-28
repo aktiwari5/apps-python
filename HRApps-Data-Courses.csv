@@ -1,0 +1,19 @@
+ ID,Title,Description,Hours,Department
+ENG-001,Engineering Orientation,Learn the basic organization of the Engineering group,2,Engineering
+GEN-001,Company orientation,Learn about the company's history and corporate structure,1,All
+GEN-002,Time Off Management,Review the time off reporting system,0.5,All
+GEN-003,Benefits Presentation,Information session on the various company-sponsored benefits,1,All
+GEN-004,Insurance Options,Information session on the company-sponsored insurance plans,1.5,All
+GEN-005,Retirement Planning,"Information session on the company's retirement plan, including eligibility requirements and vesting",2,All
+MGT-001,Conflict Resolution Workshop,Learn effective strategies for resolving conflicts,4,All
+MKT-001,Marketing Orientation,Learn the basic organization of the Marketing group,2,Marketing
+SAL-001,Sales Orientation,Learn the basic organization of the Sales group,2,Sales
+SAL-002,Effective Selling,Sales workshop focusing on effective techniques for closing sales,2.5,Sales
+GEN-007,Time Off Management,Review the time off reporting system,0.5,All
+GEN-008,Benefits Presentation,Information session on the various company-sponsored benefits,1,All
+GEN-009,Insurance Options,Information session on the company-sponsored insurance plans,1.5,All
+GEN-006,Retirement Planning,"Information session on the company's retirement plan, including eligibility requirements and vesting",2,All
+MGT-002,Conflict Resolution Workshop,Learn effective strategies for resolving conflicts,4,All
+MKT-002,Marketing Orientation,Learn the basic organization of the Marketing group,2,Marketing
+SAL-003,Sales Orientation,Learn the basic organization of the Sales group,2,Sales
+SAL-004,Effective Selling,Sales workshop focusing on effective techniques for closing sales,2.5,Sales
