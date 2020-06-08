@@ -18,4 +18,7 @@ import sklearn
 print('sklearn: {}'.format(sklearn.__version__))
 # nose
 import nose
-print('sklearn: {}'.format(nose.__version__))
+print('nose: {}'.format(nose.__version__))
+# nose
+import seaborn
+print('seaborn: {}'.format(seaborn.__version__))
